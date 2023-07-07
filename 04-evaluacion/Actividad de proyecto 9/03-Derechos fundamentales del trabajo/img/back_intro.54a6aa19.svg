@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="754.93" viewBox="0 0 1240 754.93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.27" stop-color="#e5d7da"/>
+      <stop offset="0.94" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_55754" data-name="Grupo 55754" transform="translate(10047 10304.174)">
+    <g id="Grupo_53967" data-name="Grupo 53967" transform="translate(-10227 -10685.094)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(180 381.85)">
+        <rect id="Rectángulo_5153" data-name="Rectángulo 5153" width="1240" height="754" fill="url(#linear-gradient)"/>
+        <g id="Grupo_53931" data-name="Grupo 53931" opacity="0.1">
+          <path id="Trazado_101068" data-name="Trazado 101068" d="M526.95-.93h-1.77l7.41,443.38.76-.01v.01l1.77-.02L527.7-.93Z" fill="#9b6771"/>
+          <path id="Trazado_101069" data-name="Trazado 101069" d="M768.6,462.29,665.33,446.93c.34-21.56,5.28-328.52,7.72-447.86h-2.64c-2.49,121-7.49,432.75-7.75,449v1.15l108.3,16.12L820.96-.9h-2.67Z" fill="#9b6771"/>
+          <path id="Trazado_101070" data-name="Trazado 101070" d="M1052.57-.93l4.31,437.09L932,457.33,916.9-.93h-2.65L929.4,458.93l.05,1.51,128.98-21.86,1.12-.2L1055.22-.93Z" fill="#9b6771"/>
+          <path id="Trazado_101071" data-name="Trazado 101071" d="M1188.36,459.86,1179.12-.93h-2.65l9.27,462.17.03,1.32Z" fill="#9b6771"/>
+        </g>
+        <g id="Grupo_53932" data-name="Grupo 53932" opacity="0.1">
+          <path id="Trazado_101072" data-name="Trazado 101072" d="M163.92,438.38l-1.11.2L0,461.43v-2.7l161.26-22.57L156.95-.93h2.65Z" fill="#9b6771"/>
+          <path id="Trazado_101073" data-name="Trazado 101073" d="M409.91-.93,398.74,457.59l-106.01,2.27L283.5-.93h-2.66l9.28,462.17.02,1.32,111.19-2.38L412.57-.93Z" fill="#9b6771"/>
+        </g>
+        <path id="Trazado_101074" data-name="Trazado 101074" d="M1240-1.85V488.22l-21.06-25.66L1203.68,39.42H620.83L0,161.31V-.93Z" transform="translate(0 1.85)" fill="#bd9aa0" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

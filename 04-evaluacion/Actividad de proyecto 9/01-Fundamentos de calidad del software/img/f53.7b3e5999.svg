@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="330" viewBox="0 0 610 330">
+  <g id="Grupo_94298" data-name="Grupo 94298" transform="translate(-495 -11231)">
+    <rect id="Rectángulo_39131" data-name="Rectángulo 39131" width="610" height="330" rx="19" transform="translate(495 11231)" fill="#f3f9ff"/>
+    <g id="Capa_1" data-name="Capa 1" transform="translate(380.78 11237.15)">
+      <rect id="Rectángulo_39128" data-name="Rectángulo 39128" width="102.68" height="31.55" transform="translate(157.22 53.85)" fill="#ffa726"/>
+      <rect id="Rectángulo_39129" data-name="Rectángulo 39129" width="102.68" height="31.55" transform="translate(157.22 153.28)" fill="#32c1b1"/>
+      <rect id="Rectángulo_39130" data-name="Rectángulo 39130" width="102.68" height="31.55" transform="translate(157.22 244.1)" fill="#039be5"/>
+      <text id="CMM" transform="translate(189.24 75.92)" fill="#12263f" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CMM</tspan></text>
+      <text id="TSP" transform="translate(189.24 176.49)" fill="#12263f" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.01em">T</tspan><tspan y="0">SP</tspan></text>
+      <text id="PSP" transform="translate(189.24 266.33)" fill="#12263f" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">PSP</tspan></text>
+      <g id="Grupo_93158" data-name="Grupo 93158">
+        <line id="Línea_832" data-name="Línea 832" x2="112.09" transform="translate(295.26 69.63)" fill="none" stroke="#ffa726" stroke-miterlimit="10" stroke-width="6"/>
+        <path id="Trazado_187396" data-name="Trazado 187396" d="M297.45,77.11,284.5,69.63l12.95-7.48Z" fill="#ffa726"/>
+        <path id="Trazado_187397" data-name="Trazado 187397" d="M405.16,77.11l12.95-7.48-12.95-7.48Z" fill="#ffa726"/>
+      </g>
+      <g id="Grupo_93159" data-name="Grupo 93159">
+        <line id="Línea_833" data-name="Línea 833" x2="97.86" transform="translate(295.26 169.05)" fill="none" stroke="#32c1b1" stroke-miterlimit="10" stroke-width="6"/>
+        <path id="Trazado_187398" data-name="Trazado 187398" d="M297.45,176.53l-12.95-7.48,12.95-7.48Z" fill="#32c1b1"/>
+        <path id="Trazado_187399" data-name="Trazado 187399" d="M390.93,176.53l12.95-7.48-12.95-7.48Z" fill="#32c1b1"/>
+      </g>
+      <g id="Grupo_93160" data-name="Grupo 93160">
+        <line id="Línea_834" data-name="Línea 834" x2="155.39" transform="translate(295.26 266.33)" fill="none" stroke="#039be5" stroke-miterlimit="10" stroke-width="6"/>
+        <path id="Trazado_187400" data-name="Trazado 187400" d="M297.45,273.81l-12.95-7.48,12.95-7.47Z" fill="#039be5"/>
+        <path id="Trazado_187401" data-name="Trazado 187401" d="M448.46,273.81l12.95-7.48-12.95-7.47Z" fill="#039be5"/>
+      </g>
+    </g>
+  </g>
+</svg>
